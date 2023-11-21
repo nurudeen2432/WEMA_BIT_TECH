@@ -65,8 +65,8 @@ public class Program
                                 new Users(){
                                 Id=4,
                                 FirstName="Bethel",
-                                LastName="John",
-                                Email="bethel.john@gmail.com"
+                                LastName="Johnson",
+                                Email="bethel.johnson@gmail.com"
 
                                 },
             new Users(){
