@@ -34,6 +34,8 @@ public class Program
 
         Console.ReadLine(); // Pause console to view the result
 
+    
+
 
         List<Users> userList = new List<Users>()
     {
@@ -105,11 +107,13 @@ public class Program
             
         }
 
+
         // Function to calculate the area of a triangle
         static double CalculateTriangleArea(double baseLength, double height)
         {
             return 0.5 * baseLength * height;
         }
+
 
 
     }
