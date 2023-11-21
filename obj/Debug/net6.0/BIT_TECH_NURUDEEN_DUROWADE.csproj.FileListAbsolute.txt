@@ -1,0 +1,15 @@
+C:\Users\habib\OneDrive\Documents\BIT_TECH_NURUDEEN_DUROWADE\obj\Debug\net6.0\BIT_TECH_NURUDEEN_DUROWADE.csproj.AssemblyReference.cache
+C:\Users\habib\OneDrive\Documents\BIT_TECH_NURUDEEN_DUROWADE\obj\Debug\net6.0\BIT_TECH_NURUDEEN_DUROWADE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\habib\OneDrive\Documents\BIT_TECH_NURUDEEN_DUROWADE\obj\Debug\net6.0\BIT_TECH_NURUDEEN_DUROWADE.AssemblyInfoInputs.cache
+C:\Users\habib\OneDrive\Documents\BIT_TECH_NURUDEEN_DUROWADE\obj\Debug\net6.0\BIT_TECH_NURUDEEN_DUROWADE.AssemblyInfo.cs
+C:\Users\habib\OneDrive\Documents\BIT_TECH_NURUDEEN_DUROWADE\obj\Debug\net6.0\BIT_TECH_NURUDEEN_DUROWADE.csproj.CoreCompileInputs.cache
+C:\Users\habib\OneDrive\Documents\BIT_TECH_NURUDEEN_DUROWADE\bin\Debug\net6.0\BIT_TECH_NURUDEEN_DUROWADE.exe
+C:\Users\habib\OneDrive\Documents\BIT_TECH_NURUDEEN_DUROWADE\bin\Debug\net6.0\BIT_TECH_NURUDEEN_DUROWADE.deps.json
+C:\Users\habib\OneDrive\Documents\BIT_TECH_NURUDEEN_DUROWADE\bin\Debug\net6.0\BIT_TECH_NURUDEEN_DUROWADE.runtimeconfig.json
+C:\Users\habib\OneDrive\Documents\BIT_TECH_NURUDEEN_DUROWADE\bin\Debug\net6.0\BIT_TECH_NURUDEEN_DUROWADE.dll
+C:\Users\habib\OneDrive\Documents\BIT_TECH_NURUDEEN_DUROWADE\bin\Debug\net6.0\BIT_TECH_NURUDEEN_DUROWADE.pdb
+C:\Users\habib\OneDrive\Documents\BIT_TECH_NURUDEEN_DUROWADE\obj\Debug\net6.0\BIT_TECH_NURUDEEN_DUROWADE.dll
+C:\Users\habib\OneDrive\Documents\BIT_TECH_NURUDEEN_DUROWADE\obj\Debug\net6.0\refint\BIT_TECH_NURUDEEN_DUROWADE.dll
+C:\Users\habib\OneDrive\Documents\BIT_TECH_NURUDEEN_DUROWADE\obj\Debug\net6.0\BIT_TECH_NURUDEEN_DUROWADE.pdb
+C:\Users\habib\OneDrive\Documents\BIT_TECH_NURUDEEN_DUROWADE\obj\Debug\net6.0\BIT_TECH_NURUDEEN_DUROWADE.genruntimeconfig.cache
+C:\Users\habib\OneDrive\Documents\BIT_TECH_NURUDEEN_DUROWADE\obj\Debug\net6.0\ref\BIT_TECH_NURUDEEN_DUROWADE.dll
