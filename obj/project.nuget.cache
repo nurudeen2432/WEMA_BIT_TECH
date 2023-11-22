@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "Se78naYw+mc3ZWXjpPEeAjJAOAmA+Iw6J4ZtDf3IcfFw1My6xjzpF1A18s8R2cgeg6uOs0JmdIDiznRlILqqww==",
+  "dgSpecHash": "Z5j4/2xncxp3gcKmin6HIq3EN36O9xhliiBSguEXq7a8J8LZX8ugUNeahgsINzynq06IyWaxKuxjn8ERodx0ZQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\habib\\OneDrive\\Documents\\BIT_TECH_NURUDEEN_DUROWADE\\BIT_TECH_NURUDEEN_DUROWADE.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\habib\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
   "logs": []
 }
