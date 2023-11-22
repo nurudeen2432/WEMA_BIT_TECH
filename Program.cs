@@ -34,7 +34,7 @@ public class Program
 
         Console.ReadLine(); // Pause console to view the result
 
-    
+
 
 
         List<Users> userList = new List<Users>()
@@ -88,23 +88,23 @@ public class Program
             new Payments() {Id=5, Paymount_Amount=878.88, User_id=50},
         };
 
-        
-        
-       foreach(var user in userList)
+
+
+        foreach (var user in userList)
         {
-          
 
-                Console.WriteLine($"ID:{user.Id}\n Name:{user.FirstName}\n  Surname:{user.LastName}\n  Email:{user.Email}");
 
-            foreach(var x in payments)
+            Console.WriteLine($"ID:{user.Id}\n Name:{user.FirstName}\n  Surname:{user.LastName}\n  Email:{user.Email}");
+
+            foreach (var x in payments)
             {
-                if(x.Id == user.Id)
+                if (x.Id == user.Id)
                 {
 
                     Console.WriteLine($" ID:{x.User_id}\n Amount Paid:{x.Paymount_Amount}");
                 }
             }
-            
+
         }
 
 
@@ -123,7 +123,7 @@ public class Program
 
 
 
-    
+
 }
 
 
@@ -153,7 +153,7 @@ public class Payment
         return Name;
     }
 
-    
+
 }
 
 
