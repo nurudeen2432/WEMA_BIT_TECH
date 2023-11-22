@@ -1,9 +1,8 @@
 ﻿using BIT_TECH_NURUDEEN_DUROWADE.Model.Payments;
-
 using BIT_TECH_NURUDEEN_DUROWADE.Model.Users;
-
 using BIT_TECH_NURUDEEN_DUROWADE.Model.Calculator;
-
+using Newtonsoft.Json;
+using System.Text.Json.Serialization;
 
 
 // See https://aka.ms/new-console-template for more information
@@ -74,8 +73,8 @@ public class Program
 
 
         var userPayment = userList.Where(x=> x.Id== 1).ToList();
-      
 
+        var json = JsonConvert.SerializeObject(userPayment, Formatting.Indented);
 
 
         foreach (var user in userList)
@@ -97,7 +96,7 @@ public class Program
 
 
 
-        // Calculator Calc = new Calculator();
+         Calculator Calc = new Calculator();
 
         // Calc.Calculating();
 
