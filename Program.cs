@@ -13,12 +13,7 @@ public class Program
 
     public static void Main(string[] args)
     {
-
-  
-        Calculator Calc = new Calculator();
-
-        Calc.Calculating();
-         
+ 
         List<Users> userList = new List<Users>()
     {
         new Users()
@@ -90,8 +85,10 @@ public class Program
         }
 
 
-       
-     
+
+        Calculator Calc = new Calculator();
+
+        Calc.Calculating();
 
 
 

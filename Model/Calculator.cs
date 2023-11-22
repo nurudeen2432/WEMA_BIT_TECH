@@ -7,6 +7,7 @@ using System.Threading.Tasks;
 
 namespace BIT_TECH_NURUDEEN_DUROWADE.Model.Calculator;
 
+
 public class Calculator
 {
     public void Calculating()
