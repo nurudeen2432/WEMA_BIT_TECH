@@ -2,6 +2,9 @@
 
 using BIT_TECH_NURUDEEN_DUROWADE.Model.Users;
 
+using BIT_TECH_NURUDEEN_DUROWADE.Model.Calculator;
+
+
 namespace BIT_TECH_NURUDEEN_DUROWADE.User;
 
 // See https://aka.ms/new-console-template for more information
@@ -11,32 +14,11 @@ public class Program
     public static void Main(string[] args)
     {
 
+  
+        Calculator Calc = new Calculator();
 
-
-
-
-        Console.WriteLine("Triangle Area Calculator");
-
-        // Input base and height from the user
-        Console.Write("Enter the base of the triangle: ");
-        double baseLength = Convert.ToDouble(Console.ReadLine());
-
-        Console.Write("Enter the height of the triangle: ");
-        double height = Convert.ToDouble(Console.ReadLine());
-
-        // Calculate the area of the triangle
-        double area = CalculateTriangleArea(baseLength, height);
-
-
-
-        // Display the result
-        Console.WriteLine($"The area of the triangle with base {baseLength} and height {height} is: {area}");
-
-        Console.ReadLine(); // Pause console to view the result
-
-
-
-
+        Calc.Calculating();
+         
         List<Users> userList = new List<Users>()
     {
         new Users()
@@ -108,21 +90,12 @@ public class Program
         }
 
 
-        // Function to calculate the area of a triangle
-        static double CalculateTriangleArea(double baseLength, double height)
-        {
-            return 0.5 * baseLength * height;
-        }
+       
+     
 
 
 
     }
-
-
-
-
-
-
 
 }
 
